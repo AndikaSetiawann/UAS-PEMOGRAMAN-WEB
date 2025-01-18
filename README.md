@@ -1,7 +1,5 @@
 # Kuliner Nusantara Website 🍱
 
-![Banner Kuliner Nusantara](screenshots/banner.png)
-
 Sebuah aplikasi web yang menampilkan masakan dan minuman tradisional Indonesia dari Sabang hingga Merauke. Proyek ini dibuat sebagai bagian dari Ujian Akhir Semester Pemrograman Web.
 
 ## 📑 Daftar Isi
